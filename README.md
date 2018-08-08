@@ -1,5 +1,3 @@
-# assignment1
-Concreet Fullstack Assignment
 # concreet-assignment
 assignment for full stack developer
 
